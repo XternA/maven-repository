@@ -1,2 +1,2 @@
-# Maven-Repo
+# Maven Repository
 Maven repository for hosting artifacts.
